@@ -6,7 +6,7 @@
     "js-md5": "^0.7.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "^2.1.5",
     "serve": "^10.1.2",
     "socket.io-client": ">=2.4.0"
